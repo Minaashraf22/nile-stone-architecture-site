@@ -10,6 +10,9 @@ Fictional brand. Images are AI-generated. Not a real company.
     npm run dev
     npm run build
 
+## Demo video
+[docs/demo.mp4](docs/demo.mp4) (short screen recording of the main flows)
+
 ## Preview
 ![Desktop](docs/desktop.jpg)
 
